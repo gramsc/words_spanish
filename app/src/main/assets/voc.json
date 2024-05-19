@@ -1,0 +1,1762 @@
+[
+  {
+    "spanish": "a",
+    "french": "à",
+    "alt_desc": "",
+    "details": "direction, destination (+el = al)",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "de",
+    "french": "de",
+    "alt_desc": "",
+    "details": "origine, provenance (+el = del, +la = alla)",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "en",
+    "french": "dans",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "para",
+    "french": "pour",
+    "alt_desc": "",
+    "details": "objectif",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "por",
+    "french": "pour",
+    "alt_desc": "",
+    "details": "cause",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "sobre",
+    "french": "sur",
+    "alt_desc": "au-dessus de",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "entre",
+    "french": "entre",
+    "alt_desc": "parmi",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "con",
+    "french": "avec",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "sin",
+    "french": "sans",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "desde",
+    "french": "depuis",
+    "alt_desc": "dès",
+    "details": "origine, provenance",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "segùn",
+    "french": "selon",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "durante",
+    "french": "pendant",
+    "alt_desc": "durant",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "hacia",
+    "french": "vers",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "hasta",
+    "french": "jusqu'à",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "préposition"
+  },
+  {
+    "spanish": "porque",
+    "french": "pourquoi",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "que",
+    "french": "quoi",
+    "alt_desc": "qu'est-ce-que",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "cuando",
+    "french": "quand",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "cómo",
+    "french": "comment",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "donde",
+    "french": "où",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "por donde",
+    "french": "par où",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "de donde",
+    "french": "d'où",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "a donde",
+    "french": "où",
+    "alt_desc": "",
+    "details": "(+ direction)",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "cuàl",
+    "french": "quel",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "quién",
+    "french": "qui",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "cuànto",
+    "french": "combien",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "eso",
+    "french": "ça",
+    "alt_desc": "ce",
+    "details": "proche",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "esto",
+    "french": "ça",
+    "alt_desc": "ce",
+    "details": "loin",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "aquello",
+    "french": "ça",
+    "alt_desc": "ce",
+    "details": "très loin",
+    "genre": "",
+    "category": "pronom"
+  },
+  {
+    "spanish": "nombre",
+    "french": "prénom",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "apellido",
+    "french": "nom de famille",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "hombre",
+    "french": "homme",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "mujer",
+    "french": "femme",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "niño",
+    "french": "enfant",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "musejo",
+    "french": "musée",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "pequeño",
+    "french": "petit",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "grande",
+    "french": "grand",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "viejo",
+    "french": "vieux",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "reciente",
+    "french": "récent",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "siglo",
+    "french": "siècle",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "titulo",
+    "french": "titre",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "barbacoa",
+    "french": "barbecue",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "platillo",
+    "french": "plat",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "plato",
+    "french": "assiette",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "comida",
+    "french": "repas",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "lengua",
+    "french": "langue",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "idioma",
+    "french": "langue",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "mascota",
+    "french": "animal domestique",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "carro",
+    "french": "voiture",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "pareja",
+    "french": "couple",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "bote",
+    "french": "poubelle",
+    "alt_desc": "",
+    "details": "mex.",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "caille",
+    "french": "rue",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "caratera",
+    "french": "autoroute",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "finca",
+    "french": "domaine",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "lapiz",
+    "french": "crayon",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "país",
+    "french": "pays",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "paisaje",
+    "french": "paysage",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "aceite",
+    "french": "huile",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "raíz",
+    "french": "racine",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "hoja",
+    "french": "feuille",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "empresa",
+    "french": "entreprise",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "projecto",
+    "french": "projet",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "abierto",
+    "french": "ouvert",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "cerrado",
+    "french": "fermé",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "ambito",
+    "french": "domaine",
+    "alt_desc": "enceinte",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "serie",
+    "french": "série",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "ahora",
+    "french": "maintenant",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "antes",
+    "french": "avant",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "anoche",
+    "french": "hier soir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "ayer",
+    "french": "hier",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "a menudo",
+    "french": "souvent",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "hoy",
+    "french": "aujourd'hui",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "luego",
+    "french": "ensuite",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "mañana",
+    "french": "demain",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "nunca",
+    "french": "jamais",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "pronto",
+    "french": "bientôt",
+    "alt_desc": "vite",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "siempre",
+    "french": "toujours",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "tarde",
+    "french": "tard",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "despues",
+    "french": "après",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "bajo",
+    "french": "sous",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "abajo",
+    "french": "en bas",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "debajo de",
+    "french": "en-dessous de",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "delante",
+    "french": "devant",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "adelante",
+    "french": "en avant",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "afuera",
+    "french": "dehors",
+    "alt_desc": "",
+    "details": "mouvement",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "fuera",
+    "french": "dehors",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "dentro",
+    "french": "dedans",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "encima",
+    "french": "dessus",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "arriba",
+    "french": "en haut",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "como",
+    "french": "comme",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "bien",
+    "french": "bientôt",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "asi",
+    "french": "ainsi",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "mal",
+    "french": "mal",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "mejor",
+    "french": "meilleur",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "peor",
+    "french": "pire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "algo",
+    "french": "quelque chose",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "bastante",
+    "french": "assez",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "casi",
+    "french": "presque",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "demasiado",
+    "french": "trop",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "mas",
+    "french": "plus",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "menos",
+    "french": "moins",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "mucho",
+    "french": "beaucoup",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "nada",
+    "french": "rien",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "poco",
+    "french": "peu",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "todo",
+    "french": "tout",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "bueno",
+    "french": "bon",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "claro",
+    "french": "clair",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "agua",
+    "french": "eau",
+    "alt_desc": "",
+    "details": "(el agua)",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "de verdad",
+    "french": "vraiment",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "verdaderamente",
+    "french": "vraiment",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "por supuesto",
+    "french": "bien sûr",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "seguro",
+    "french": "sûr",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "tambien",
+    "french": "aussi",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "tampoco",
+    "french": "non plus",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "en absoluto",
+    "french": "pas du tout",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "acaso",
+    "french": "peut-être",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "quizá",
+    "french": "peut-être",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "tal vez",
+    "french": "peut-être",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "ser",
+    "french": "être",
+    "alt_desc": "",
+    "details": "essentiel (relatif à la personne)",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "estar",
+    "french": "être",
+    "alt_desc": "",
+    "details": "occasionel",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "haber",
+    "french": "avoir",
+    "alt_desc": "",
+    "details": "auxiliaire, expression impersonnelle",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "tener",
+    "french": "avoir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "hablar",
+    "french": "parler",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "hablar de tú",
+    "french": "tutoyer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "hablar de usted",
+    "french": "vouvoyer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "saber",
+    "french": "savoir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "vivir",
+    "french": "vivre",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "escriber",
+    "french": "écrire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "tomar",
+    "french": "boire",
+    "alt_desc": "",
+    "details": "mex., es. prendre",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "beber",
+    "french": "boire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "tocar",
+    "french": "toucher",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "viajar",
+    "french": "voyager",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "visitar",
+    "french": "visiter",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "estudiar",
+    "french": "étudier",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "querer",
+    "french": "vouloir",
+    "alt_desc": "aimer",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "amar",
+    "french": "aimer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "decir",
+    "french": "dire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "crear",
+    "french": "créer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "reir",
+    "french": "rire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "medicar",
+    "french": "soigner",
+    "alt_desc": "",
+    "details": "donner des médicaments",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "construir",
+    "french": "construire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "hojear",
+    "french": "feuilleter",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "sonrojar (se)",
+    "french": "rougir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "buscar",
+    "french": "réserver",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "comenzar",
+    "french": "commencer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "empezar",
+    "french": "commencer",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "ganar",
+    "french": "gagner",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "tratar",
+    "french": "traiter",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "ver",
+    "french": "voir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "fuerte",
+    "french": "fort",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "naranja",
+    "french": "orange",
+    "alt_desc": "",
+    "details": "(ou adjectif)",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "rojo",
+    "french": "rouge",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "actor",
+    "french": "acteur",
+    "alt_desc": "",
+    "details": "fém. actriz",
+    "genre": "mascuilin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "doctor",
+    "french": "docteur",
+    "alt_desc": "",
+    "details": "fém. doctora",
+    "genre": "mascuilin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "pelicula",
+    "french": "film",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "cerca",
+    "french": "proche",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "nuevo",
+    "french": "nouveau",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "universidad",
+    "french": "université",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "trabajar",
+    "french": "travailler",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "además",
+    "french": "en plus",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adverbe"
+  },
+  {
+    "spanish": "derecho",
+    "french": "droite",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "izquierda",
+    "french": "gauche",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "tío",
+    "french": "oncle",
+    "alt_desc": "",
+    "details": "fém. tía",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "duda",
+    "french": "doute",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "cantante",
+    "french": "chanteur",
+    "alt_desc": "",
+    "details": "",
+    "genre": "invariable",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "empleo",
+    "french": "emploi",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "profesión",
+    "french": "profession",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "móvil",
+    "french": "téléphone",
+    "alt_desc": "",
+    "details": "es.",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "cellular",
+    "french": "téléphone",
+    "alt_desc": "",
+    "details": "mex.",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "teléfono",
+    "french": "téléphone",
+    "alt_desc": "",
+    "details": "mex.",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "camarero",
+    "french": "serveur",
+    "alt_desc": "",
+    "details": "fém. camarera",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "escuela",
+    "french": "école",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "guión",
+    "french": "tiret",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "guión bajo",
+    "french": "tiret du bas",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "oficina",
+    "french": "bureau",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "instrumento",
+    "french": "instrument",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "guitarra",
+    "french": "guitare",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "violín",
+    "french": "violon",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "trompeta",
+    "french": "trompette",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "cuchillo",
+    "french": "couteau",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "navaja",
+    "french": "couteau",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "parecer",
+    "french": "paraître",
+    "alt_desc": "sembler",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "pensar",
+    "french": "penser",
+    "alt_desc": "réfléchir",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "creer",
+    "french": "croire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "anuncio",
+    "french": "publicité",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "publicidad",
+    "french": "publicité",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "maravilloso",
+    "french": "merveilleux",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "adjectif"
+  },
+  {
+    "spanish": "espejo",
+    "french": "miroir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "ladrón",
+    "french": "voleur",
+    "alt_desc": "",
+    "details": "fém. ladrona",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "lana",
+    "french": "laine",
+    "alt_desc": "",
+    "details": "fam. argent",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "morralla",
+    "french": "petite monnaie",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "dinero",
+    "french": "argent",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "jubilado",
+    "french": "retraité",
+    "alt_desc": "",
+    "details": "fém. jubilada",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "fallecido",
+    "french": "décédé",
+    "alt_desc": "",
+    "details": "fém. fallecida",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "pluma",
+    "french": "marqueur",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "plumon",
+    "french": "stylo",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "mapa",
+    "french": "carte",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "nube",
+    "french": "nuage",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "anillo",
+    "french": "bague",
+    "alt_desc": "anneau",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "torno",
+    "french": "tour",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "barro",
+    "french": "argile",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "sobrino",
+    "french": "neveu",
+    "alt_desc": "",
+    "details": "fém. sobrina",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "hijo",
+    "french": "fils",
+    "alt_desc": "",
+    "details": "fém. hija",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "abuelo",
+    "french": "grand-père",
+    "alt_desc": "",
+    "details": "fém. abuela",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "hermano",
+    "french": "frère",
+    "alt_desc": "",
+    "details": "fém. hermana",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "primo",
+    "french": "cousin",
+    "alt_desc": "",
+    "details": "fém. prima",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "padre",
+    "french": "père",
+    "alt_desc": "parent",
+    "details": "fém. madre",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "nadar",
+    "french": "nager",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "correr",
+    "french": "courir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "cocer",
+    "french": "cuire",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "cifra",
+    "french": "chiffre",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "verbe"
+  },
+  {
+    "spanish": "fuente",
+    "french": "source",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "masa",
+    "french": "pâte",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "andar",
+    "french": "parcourir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "encontrar",
+    "french": "trouver",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "promover",
+    "french": "promouvoir",
+    "alt_desc": "",
+    "details": "",
+    "genre": "",
+    "category": "verbe"
+  },
+  {
+    "spanish": "primavera",
+    "french": "printemps",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "verano",
+    "french": "été",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "otonio",
+    "french": "automne",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "invierno",
+    "french": "hiver",
+    "alt_desc": "",
+    "details": "",
+    "genre": "masculin",
+    "category": "nom commun"
+  },
+  {
+    "spanish": "vispera",
+    "french": "veille",
+    "alt_desc": "",
+    "details": "",
+    "genre": "féminin",
+    "category": "nom commun"
+  }
+]
