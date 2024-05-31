@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private MaterialButtonToggleGroup genreButtonGroup;
     private MaterialButton masculineButton;
     private MaterialButton feminineButton;
+    private MaterialButton invariableButton;
     private TextView feedbackText;
 
     private TextInputEditText translationInput;
@@ -69,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         genreButtonGroup = findViewById(R.id.genreButtonGroup);
         masculineButton = findViewById(R.id.masculineButton);
         feminineButton = findViewById(R.id.feminineButton);
+        invariableButton = findViewById(R.id.invariableButton);
 
         feedbackText = findViewById(R.id.feedbackText);
 
@@ -85,12 +87,15 @@ public class MainActivity extends AppCompatActivity {
 
         nextButton.setOnClickListener(v -> nextWord());
 
+        genreButtonGroup.setSingleSelection(true);
         genreButtonGroup.addOnButtonCheckedListener((group, checkedId, isChecked) -> {
             if (isChecked) {
                 if (checkedId == R.id.masculineButton) {
                     currentWord.setUserGenre("masculin");
                 } else if (checkedId == R.id.feminineButton) {
                     currentWord.setUserGenre("féminin");
+                } else if (checkedId == R.id.invariableButton) {
+                    currentWord.setUserGenre("invariable");
                 }
             }
         });
@@ -123,6 +128,8 @@ public class MainActivity extends AppCompatActivity {
             definitionAndGenre = definitionAndGenre + " (m.)";
         } else if ("féminin".equalsIgnoreCase(currentWord.getGenre())) {
             definitionAndGenre = definitionAndGenre + " (f.)";
+        } else if ("invariable".equalsIgnoreCase(currentWord.getGenre())) {
+            definitionAndGenre = definitionAndGenre + " (inv.)";
         }
         definitionText.setText(definitionAndGenre);
 
@@ -177,9 +184,11 @@ public class MainActivity extends AppCompatActivity {
             if (currentWord.getGenre() != null) {
                 masculineButton.setVisibility(View.VISIBLE);
                 feminineButton.setVisibility(View.VISIBLE);
+                invariableButton.setVisibility(View.VISIBLE);
             } else {
                 masculineButton.setVisibility(View.GONE);
                 feminineButton.setVisibility(View.GONE);
+                invariableButton.setVisibility(View.GONE);
             }
         } else {
             genreButtonGroup.setVisibility(View.GONE);
